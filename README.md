@@ -10,7 +10,7 @@ o Projeto é de um aplicativo desenvolvido com react native, o aplicativo é um 
 <img src='https://github.com/renan-meneses/clone-Uber/blob/master/print3.png' width="250px" align="left">
 <img src='https://github.com/renan-meneses/clone-Uber/blob/master/print2.png' width="250px" align="right">
 
-
+<p></p>
 
 # Como executar o projeto
 
