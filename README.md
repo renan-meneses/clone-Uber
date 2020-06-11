@@ -7,13 +7,19 @@ o Projeto é de um aplicativo desenvolvido com react native, o aplicativo é um 
 
 # Imagens
 <img src='https://github.com/renan-meneses/clone-Uber/blob/master/print1.png' width="250px" align="left" >
-<img src='https://github.com/renan-meneses/clone-Uber/blob/master/print2.png' width="250px" align="left">
+<img src='https://github.com/renan-meneses/clone-Uber/blob/master/print2.png' width="250px" align="center">
 <img src='https://github.com/renan-meneses/clone-Uber/blob/master/print3.png' width="250px" align="right">
+
+
+
+
 
 #Adicao do Expo
 
 
-<p>Ainda esta em preparacao </p>
+<p>Ainda esta em preparacao</p>
+
+
 
 # Como executar o projeto
 
