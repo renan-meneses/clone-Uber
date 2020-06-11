@@ -8,7 +8,7 @@ o Projeto é de um aplicativo desenvolvido com react native, o aplicativo é um 
 # Imagens
 <p align="center">
 <img src='https://github.com/renan-meneses/clone-Uber/blob/master/print1.png' width="200px" align="left" >
-<img src='https://github.com/renan-meneses/clone-Uber/blob/master/print2.png' width="200px" align="center">
+<img src='https://github.com/renan-meneses/clone-Uber/blob/master/print2.png' width="200px" align="left">
 <img src='https://github.com/renan-meneses/clone-Uber/blob/master/print3.png' width="200px" align="rigth">
 </p>
 
